@@ -1,12 +1,13 @@
 # sales-analysis
-let's break down the tasks.
-Learning:
+
+   **Learning:
    - Row into column.
    - Group column.
    - Reference table.
    - Trim.
    - append table
-
+     
+#let's break down the tasks.
 1. *Task 1: Data Cleaning in dim_merchants table*
    - Split the 'Merchant' column into "Industry Segment" using a common delimiter.
    - Trim the "Industry Segment" column to remove leading and trailing spaces.
